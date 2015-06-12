@@ -1,0 +1,9 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Layer]	{2}
+[end]
+[app] (name=fbpager) (class=FbPager)
+  [Position]	(UPPERLEFT)	{0% 94%}
+  [Deco]	{NONE}
+  [Layer]	{12}
+[end]
